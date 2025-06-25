@@ -1,0 +1,15 @@
+artifact_uri: file:///c:\Users\HP\OneDrive\Desktop\MLOps\fake_news_bot\mlruns/221902388011994056/aebe790cd75b44ca8862f183f00b2d80/artifacts
+deleted_time: 1750869778112
+end_time: 1750869308681
+entry_point_name: ''
+experiment_id: '221902388011994056'
+lifecycle_stage: deleted
+run_id: aebe790cd75b44ca8862f183f00b2d80
+run_name: CountVectorizer
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750869241760
+status: 3
+tags: []
+user_id: HP

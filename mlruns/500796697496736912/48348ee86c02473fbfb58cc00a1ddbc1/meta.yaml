@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/OneDrive/Desktop/MLOps/fake_news_bot/mlruns/500796697496736912/48348ee86c02473fbfb58cc00a1ddbc1/artifacts
+end_time: 1750870424160
+entry_point_name: ''
+experiment_id: '500796697496736912'
+lifecycle_stage: active
+run_id: 48348ee86c02473fbfb58cc00a1ddbc1
+run_name: Naive Bayes
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750870416611
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/HP/OneDrive/Desktop/MLOps/fake_news_bot/mlruns/500796697496736912/models/m-a278f4d55e9245a68d2c654a92e2a4a9/artifacts
+creation_timestamp: 1750870428708
+experiment_id: '500796697496736912'
+last_updated_timestamp: 1750870435372
+model_id: m-a278f4d55e9245a68d2c654a92e2a4a9
+model_type: null
+name: model
+source_run_id: 46813e36d18d4a11ade823e52316a910
+status: 2
+status_message: null

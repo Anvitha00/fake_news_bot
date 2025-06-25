@@ -1,0 +1,22 @@
+artifact_path: file:///c:\Users\HP\OneDrive\Desktop\MLOps\fake_news_bot\mlruns/221902388011994056/models/m-07d9a566f22f46899415cb25d4d3606d/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.1
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.1
+model_id: m-07d9a566f22f46899415cb25d4d3606d
+model_size_bytes: 20375222
+model_uuid: m-07d9a566f22f46899415cb25d4d3606d
+prompts: null
+run_id: 7ac08fc8f40f49d5b67dcef72f5d8ea5
+utc_time_created: '2025-06-25 15:13:47.590865'

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/OneDrive/Desktop/MLOps/fake_news_bot/mlruns/500796697496736912/68d87748a2bc4e39bd8519a890ab1aca/artifacts
+end_time: 1750870416600
+entry_point_name: ''
+experiment_id: '500796697496736912'
+lifecycle_stage: active
+run_id: 68d87748a2bc4e39bd8519a890ab1aca
+run_name: Logistic Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750870392952
+status: 3
+tags: []
+user_id: HP

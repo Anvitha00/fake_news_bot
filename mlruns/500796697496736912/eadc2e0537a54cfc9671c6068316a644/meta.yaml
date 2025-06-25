@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/OneDrive/Desktop/MLOps/fake_news_bot/mlruns/500796697496736912/eadc2e0537a54cfc9671c6068316a644/artifacts
+end_time: 1750870638041
+entry_point_name: ''
+experiment_id: '500796697496736912'
+lifecycle_stage: active
+run_id: eadc2e0537a54cfc9671c6068316a644
+run_name: Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750870435417
+status: 3
+tags: []
+user_id: HP

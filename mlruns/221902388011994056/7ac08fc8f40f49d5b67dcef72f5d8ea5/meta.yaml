@@ -1,0 +1,14 @@
+artifact_uri: file:///c:\Users\HP\OneDrive\Desktop\MLOps\fake_news_bot\mlruns/221902388011994056/7ac08fc8f40f49d5b67dcef72f5d8ea5/artifacts
+end_time: 1750864438880
+entry_point_name: ''
+experiment_id: '221902388011994056'
+lifecycle_stage: active
+run_id: 7ac08fc8f40f49d5b67dcef72f5d8ea5
+run_name: TFIDF_Unigram_Bigram
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750864255374
+status: 3
+tags: []
+user_id: HP
