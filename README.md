@@ -70,4 +70,4 @@ If you're learning MLOps too or find this helpful, feel free to star ⭐ the rep
 
 ## 📜 License
 
-This project is open-sourced and created purely for educational and self-learning p
+This project is open-sourced and created purely for educational and self-learning purposes
