@@ -50,18 +50,6 @@ These tools will be added as part of the next phase of MLOps learning and deploy
 
 ---
 
-## 📚 Project Structure
-
-fake_news_bot/
-├── data/ # Raw and processed data
-├── notebooks/ # EDA and model training notebooks
-├── models/ # Saved models
-├── app.py # Streamlit application (in progress)
-├── dvc.yaml # DVC pipeline definition
-├── mlruns/ # MLflow tracking directory
-└── README.md # Project documentation
-
----
 
 ## 📁 Resources
 
